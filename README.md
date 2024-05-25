@@ -12,5 +12,9 @@ This project only works with P3 Portable Pixmap (and earlier versions) because P
 ### Why can't I use normal images directly in the program?
 The reason is that I haven't found any library or resource that allows this functionality. It is possible for P4 Portable Pixmap and later versions, but not for P3 and earlier versions.
 
+### Note:
+I've added the files that I have used to test my program. Hope it helps you to test my project.
+
+#
 Thanks for reading!
 Want to go further? [Click here](https://www.geeksforgeeks.org/image-based-steganography-using-python/). This can help you if you want to work direclty on images.
