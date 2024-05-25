@@ -17,4 +17,4 @@ I've added the files that I have used to test my program. Hope it helps you to t
 
 #
 Thanks for reading!
-Want to go further? [Click here](https://www.geeksforgeeks.org/image-based-steganography-using-python/). This can help you if you want to work direclty on images.
+Want to go further? [Click here](https://www.geeksforgeeks.org/image-based-steganography-using-python/). This can help you if you want to work directly on images.
